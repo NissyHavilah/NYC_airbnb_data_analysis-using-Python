@@ -1,4 +1,4 @@
-## Analysing New York City Airbnb Data.
+## Analyzing New York City Airbnb Data.
 
 New York City is the largest city in the United States, with a population of approximately 8.5 million people spread across five boroughs: Manhattan, Brooklyn, Queens, the Bronx, and Staten Island. It is a global hub for culture, finance, entertainment, and tourism, drawing millions of visitors each year.
 
