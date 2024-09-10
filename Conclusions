@@ -1,0 +1,17 @@
+Throughout the project, we conducted an engaging analysis of the New York City Airbnb dataset and addressed several key questions, including:
+
+Which region has the highest number of listings? 
+How does Average price differ based on the region?
+How do the numbers of shared room listings compare to private room and entire home/apartment listings?
+How does price vary based on the room type?
+Which regions in New York are the most expensive to stay in?
+
+To achieve these objectives, we undertook significant data manipulation tasks, including data exploration, cleaning, analysis, and visualization.
+
+With all that said, the conclusions are:
+
+Over 70% of the rooms are located in Manhattan and Brooklyn, which are also the most expensive regions.
+Average price is high in Manhattan followed by Brooklyn.
+There are far fewer shared room listings compared to private rooms and entire homes/apartments. Entire homes/apartments have the highest number of listings
+The price distribution based on room type shows that 57% of the listings are for entire homes/apartments, 24.2% are private rooms, and 18.9% are shared rooms.
+Manhattan is the most expensive region to stay in New York City, if you want to stay close to the major attractions of the city you'll probably expend more money.
